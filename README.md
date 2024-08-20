@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Naveen00222
 - 👀 I’m interested in Front end development
-- 🌱 I’m currently learning html,css,bootstrap,js,react
 - 💞️ I’m looking to collaborate on webdesign projects
 - 📫 Reach me : naveenunnikrishnan32@gmail.com
 
