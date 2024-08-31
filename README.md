@@ -1,5 +1,5 @@
 # 💫 About Me:
-HI! Myself Naveen an Enthusiastic and innovative Computer Science student with a passion for leveraging cutting-edge<br>technologies to solve real-world problems and excellent communication skills. Eager to contributedynamic<br>coding skills, creative problem-solving, and a commitment to continuous learning to a forward-thinking<br>team, while embracing challenges and driving technological excellence.
+HI! Myself Naveen an Enthusiastic and innovative Computer Science student with a passion for leveraging cutting-edge technologies to solve real-world problems and excellent communication skills. Eager to contributedynamic coding skills, creative problem-solving, and a commitment to continuous learning to a forward-thinking team, while embracing challenges and driving technological excellence.
 
 
 ## 🌐 Socials:
